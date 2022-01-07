@@ -17,3 +17,18 @@ Prepared by: Allison Horst and Casey O'Hara
 - Convert lat/lon to spatial coordinates with `sf::st_as_sf`
 - Make static and interactive maps with `ggplot` and `tmap`
 - Stage, commit, push changes back to your copy of GitHub repo
+
+### Other Things learned (Sophia added):
+- drop_na()
+- count()
+- rename()
+- relocate()
+- slice_max()
+- arrange()
+- creating basic column bar graph
+- filtering with %in% vs ==
+- str_detect()
+- separate() to separate/split info from an individual to multiple columns
+- creating coordinates
+- transforming data
+- creating interactive map
